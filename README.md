@@ -23,6 +23,6 @@ You can suggest me any changes if required. Also, you can request me to create t
 
 # Follow
 
-❤️ Follow me at ``@simran`` :: <a target="_blank" href="https://www.linkedin.com/in/simran-thakur-4146b1274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FfvssfAxRJWQEwqqvTVh3A%3D%3D">Instagram</a>
+❤️ Follow me at ``@simranthakur`` :: <a target="_blank" href="https://www.linkedin.com/in/simran-thakur-4146b1274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FfvssfAxRJWQEwqqvTVh3A%3D%3D">LinkedIn</a>
 # Don't forget to star ⭐ this repo. Thanks. Enjoy ☺️ 
 
