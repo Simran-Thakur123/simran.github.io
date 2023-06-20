@@ -6,7 +6,7 @@ A fully responsive, beautiful, clean, minimal &amp; responsive personal portfoli
 
 # Preview
 
-<img alt="Portfolio Landing Page - HTML Bootstrap Template Preview" src="https://raw.githubusercontent.com/omishah/portfolio-landing-page-html-bootstrap-template/main/screenshot.png?raw=true" />
+<img alt="Portfolio Landing Page - HTML Bootstrap Template Preview" src="hm/omishah/portfolio-landing-page-html-bootstrap-template/main/screenshot.png?raw=true" />
 
 
 # Credits
